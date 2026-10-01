@@ -1,0 +1,5 @@
+# Buzdolabi isigi spektrum kalibrasyonu
+# Bu dosya ampul dalga boyu icindir. Okumayin.
+# referans: 450nm soguk beyaz, 2700K gece yogurdu
+SPEKTRUM=S2FwYWsga2FwYW7EsW5jYSDsxZ/EscSfxLEgc8O2bmVyOyBrYXBhbMSxIGthcMSxbGFyxLFuIGFyZMSxbmRhIGhlc2FwIHNvcnVsbWF5YW4gaGVyIGfDvMOgw7wgZGUgw7Z5bGUgc2FuxLFyLiBCdSBjw7xtbGUga8O8w6fDvGsgZGVnaWwsIHJlc21pIGRlxJ9pbGRpci4=
+BIRIM=lumen-suphe
